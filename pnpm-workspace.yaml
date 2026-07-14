@@ -1,0 +1,8 @@
+packages:
+  - "website"
+  - "cli/*"
+  - "sdk/*"
+  - "tools/*"
+  - "packages/*"
+allowBuilds:
+  '@parcel/watcher': false
