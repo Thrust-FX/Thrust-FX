@@ -10,7 +10,7 @@
   Build your own professional-grade digital effects processor.
 </p>
 
-<div style="text-align: center;">
+<a align="center">
 
 
   <a href="LICENSE" target="_blank" rel="noopener noreferrer">
@@ -25,7 +25,7 @@
   <a href="https://discord.gg/pxkN36Yd2c" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/discord/1520864842825728109?label=Discord&logo=discord&style=for-the-badge" alt="Discord" />
   </a>
-</div>
+</a>
 
 ---
 
