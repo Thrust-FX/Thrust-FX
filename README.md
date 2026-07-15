@@ -22,8 +22,8 @@
   <a href="https://github.com/Thrust-FX/Thrust-FX/issues" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/issues/Thrust-FX/Thrust-FX?style=for-the-badge" alt="Issues" />
   </a>
-  <a href="https://discord.gg/pxkN36Yd2c" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/discord/1520864842825728109?label=Discord&logo=discord&style=for-the-badge" alt="Discord" />
+  <a href="https://discord.gg/H3cKCquPex" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/discord/1527009538115637420?label=Discord&logo=discord&style=for-the-badge" alt="Discord" />
   </a>
 </a>
 
