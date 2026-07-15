@@ -12,11 +12,7 @@ Please **do NOT open a public issue** on GitHub for security vulnerabilities to 
 
 Instead, send a detailed report by email to:
 
-```
-
 [tristangpt.pro@gmail.com](mailto:tristangpt.pro@gmail.com)
-
-```
 
 or use the [GitHub Security Advisory](https://github.com/Thrust-FX/Thrust-FX/security/advisories).
 

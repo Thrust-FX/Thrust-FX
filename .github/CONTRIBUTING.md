@@ -1,4 +1,4 @@
-# Contributing to the Tournament Manager Project
+# Contributing to the THRUST FX Project
 
 Thank you for your interest in contributing to this project!
 
