@@ -10,6 +10,23 @@
   Build your own professional-grade digital effects processor.
 </p>
 
+<div style="text-align: center;">
+
+
+  <a href="LICENSE" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/license/Thrust-FX/Thrust-FX?color=blue&style=for-the-badge" alt="License" />
+  </a>
+  <a href="https://github.com/Thrust-FX/Thrust-FX/pulls" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" />
+  </a>
+  <a href="https://github.com/Thrust-FX/Thrust-FX/issues" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/issues/Thrust-FX/Thrust-FX?style=for-the-badge" alt="Issues" />
+  </a>
+  <a href="https://discord.gg/pxkN36Yd2c" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/discord/1520864842825728109?label=Discord&logo=discord&style=for-the-badge" alt="Discord" />
+  </a>
+</div>
+
 ---
 
 ## 🎸 About the project
@@ -146,6 +163,21 @@ The project will use:
 * Python and other languages through SDK integrations
 
 ---
+## Tools
+## Links
+
+- [TypeScript](https://www.typescriptlang.org) ([GitHub](https://github.com/microsoft/TypeScript/#readme))
+- [PNPM](https://pnpm.io/) ([GitHub](https://github.com/pnpm/pnpm))
+- [ViteJS](https://vite.dev) ([GitHub](https://github.com/vitejs/vite))
+- [Vercel](https://vercel.com) ([GitHub](https://github.com/vercel/vercel))
+- [React](https://react.dev) ([GitHub](https://github.com/facebook/react))
+- [ESLint](https://eslint.org) ([GitHub](https://github.com/eslint/eslint))
+- [Prettier](https://prettier.io) ([GitHub](https://github.com/prettier/prettier))
+- [Commitlint](https://commitlint.js.org) ([GitHub](https://github.com/conventional-changelog/commitlint))
+- [Husky](https://typicode.github.io/husky/) ([GitHub](https://github.com/typicode/husky))
+- [Lint Staged](https://www.npmjs.com/package/lint-staged) ([GitHub](https://github.com/lint-staged/lint-staged))
+
+---
 
 ## Getting started
 
@@ -189,8 +221,8 @@ everyone can help improve THRUST FX.
 
 Please read:
 
-* [Contributing Guide](./CONTRIBUTING.md)
-* [Code of Conduct](./CODE_OF_CONDUCT.md)
+* [Contributing Guide](./.github/CONTRIBUTING.md)
+* [Code of Conduct](./.github/CODE_OF_CONDUCT.md)
 
 before contributing.
 
@@ -202,6 +234,7 @@ before contributing.
 
 * [x] Repository setup
 * [x] Development environment
+* [ ] Website
 * [ ] Project specifications
 * [ ] Hardware architecture
 * [ ] Software architecture
@@ -224,9 +257,7 @@ before contributing.
 
 # 📜 License
 
-THRUST FX is open source.
-
-License information coming soon.
+THRUST FX is open source and licensed under the [Apache License 2.0](./LICENSE).
 
 ---
 
