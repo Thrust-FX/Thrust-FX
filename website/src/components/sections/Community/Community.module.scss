@@ -1,0 +1,47 @@
+.community {
+  width: min(calc(100% - 4rem), var(--container));
+
+  margin: auto;
+
+  padding: 8rem 0;
+
+  text-align: center;
+}
+
+.title {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+
+  letter-spacing: -0.05em;
+}
+
+.description {
+  margin: 1.5rem auto;
+
+  max-width: 600px;
+
+  color: var(--muted);
+}
+
+.links {
+  display: flex;
+
+  justify-content: center;
+
+  gap: 1rem;
+
+  margin-top: 3rem;
+}
+
+.link {
+  padding: 0.8rem 1.5rem;
+
+  border: 1px solid var(--border);
+
+  border-radius: 999px;
+
+  transition: border-color var(--transition);
+
+  &:hover {
+    border-color: white;
+  }
+}

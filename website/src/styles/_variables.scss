@@ -1,0 +1,26 @@
+:root {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  --background: #000000;
+  --foreground: #ffffff;
+
+  --surface: #0a0a0a;
+  --surface-hover: #111111;
+
+  --border: rgba(255, 255, 255, 0.12);
+  --border-hover: rgba(255, 255, 255, 0.25);
+
+  --muted: #888888;
+  --muted-light: #a1a1a1;
+
+  --container: 1200px;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+
+  --transition-fast: 150ms ease;
+  --transition: 200ms ease;
+  --transition-slow: 400ms ease;
+}

@@ -1,0 +1,87 @@
+.hardware {
+  padding: 8rem 0;
+}
+
+.content {
+  width: min(calc(100% - 4rem), var(--container));
+
+  margin: auto;
+
+  text-align: center;
+}
+
+.badge {
+  color: var(--muted);
+
+  font-size: 0.875rem;
+}
+
+.title {
+  margin-top: 1.5rem;
+
+  font-size: clamp(2.5rem, 5vw, 4rem);
+
+  letter-spacing: -0.05em;
+}
+
+.description {
+  max-width: 650px;
+
+  margin: 2rem auto;
+
+  color: var(--muted);
+
+  line-height: 1.7;
+}
+
+.board {
+  margin: 4rem auto 0;
+
+  max-width: 900px;
+
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 1rem;
+
+  padding: 1rem;
+
+  background: #050505;
+
+  border: 1px solid var(--border);
+
+  border-radius: var(--radius-lg);
+}
+
+.slot {
+  aspect-ratio: 1;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  border: 1px solid var(--border);
+
+  border-radius: var(--radius-md);
+
+  color: var(--muted);
+
+  background: #000;
+
+  transition: all var(--transition);
+
+  &:hover {
+    color: white;
+
+    border-color: white;
+  }
+}
+
+@media (max-width: 700px) {
+  .board {
+    grid-template-columns: 1fr;
+  }
+}

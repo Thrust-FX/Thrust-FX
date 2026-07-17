@@ -1,0 +1,21 @@
+@mixin container {
+  width: min(calc(100% - 4rem), var(--container));
+  margin-inline: auto;
+}
+
+@mixin border {
+  border: 1px solid var(--border);
+}
+
+@mixin surface {
+  background: var(--surface);
+  @include border;
+}
+
+@mixin hover-border {
+  transition: border-color var(--transition);
+
+  &:hover {
+    border-color: var(--border-hover);
+  }
+}
